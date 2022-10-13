@@ -1,0 +1,17 @@
+:root {
+    --text-color: blue;
+}
+
+h1 {
+    color: var(--text-color);
+}
+
+#second-heading {
+    color: red;
+    font-size: 20px;
+}
+
+.first {
+    color: violet;
+    font-weight: 800;
+}
